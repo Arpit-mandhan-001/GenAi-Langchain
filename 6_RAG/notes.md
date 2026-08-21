@@ -25,3 +25,10 @@
 
 * #### E. CSV Loader
 ![alt text](image-10.png)
+
+### 2. Text Splitter
+![alt text](image-11.png)
+![alt text](image-12.png)
+![alt text](image-13.png)
+
+* #### A. Length Based
